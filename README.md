@@ -1,4 +1,4 @@
-## Oi eu sou o Wesley Magalhães, entusiasta em front-end e back-end!
+## Olá eu sou o Wesley, entusiasta em front-end e back-end!
 
 
 <div style="display: inline_block"><br>
